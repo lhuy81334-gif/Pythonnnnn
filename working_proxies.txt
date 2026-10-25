@@ -1,0 +1,57 @@
+# Danh sách Proxy LIVE đã qua kiểm tra 10 luồng tự động (Sắp xếp theo tốc độ)
+# Cập nhật lúc: 2026-10-06 01:25:23
+
+zl47161.ydns.eu:17504:k4a13:wb8dz # Châu Âu (EU) - 245ms
+zl47156.ydns.eu:17499:hg6d2:xdglo # Châu Âu (EU) - 298ms
+zl47156.ydns.eu:17499:hg6d2:xdglo # Châu Âu (EU - Pháp) - 347ms
+zl47158.ydns.eu:17501:lzy70:uzecd # Châu Âu (EU - Đức / Hà Lan) - 348ms
+zl47155.ydns.eu:17498:uhzbt:peacj # Châu Âu (EU) - 354ms
+zl47164.ydns.eu:17507:i2fzc:mjyqo # Châu Âu (EU) - 374ms
+zl47154.ydns.eu:17497:vpjnb:ym57z # Châu Âu (EU - Đức) - 397ms
+zl47164.ydns.eu:17507:i2fzc:mjyqo # Châu Âu (EU - Séc) - 398ms
+zl47153.ydns.eu:17496:qaokl:x476p # Châu Âu (EU) - 400ms
+zl47170.ydns.eu:17513:g03e1:i6wu2 # Châu Âu (EU) - 436ms
+zl47153.ydns.eu:17496:qaokl:x476p # Châu Âu (EU) - 454ms
+zl47165.ydns.eu:17508:xpr0q:seib8 # Châu Âu (EU) - 471ms
+zl47200.ydns.eu:17543:y4daz:32peg # Châu Âu (EU) - 476ms
+zl47163.ydns.eu:17506:4t8r1:r6ogw # Châu Âu (EU) - 496ms
+zl47158.ydns.eu:17501:lzy70:uzecd # Châu Âu (EU) - 510ms
+zl47154.ydns.eu:17497:vpjnb:ym57z # Châu Âu (EU) - 513ms
+zl47160.ydns.eu:17503:8cu6g:zhl82 # Châu Âu (EU) - 528ms
+zl47162.ydns.eu:17505:12cfv:ey01l # Châu Âu (EU - Bỉ) - 539ms
+zl47167.ydns.eu:17510:wxfvk:obltw # Châu Âu (EU) - 553ms
+zl47170.ydns.eu:17513:g03e1:i6wu2 # Châu Âu (EU - Đan Mạch) - 584ms
+zl47167.ydns.eu:17510:wxfvk:obltw # Châu Âu (EU - Phần Lan) - 593ms
+zl47151.ydns.eu:17494:7wiv0:g8301 # Châu Âu (EU - Na Uy) - 602ms
+zl47199.ydns.eu:17542:mtuk8:o829i # Châu Âu (EU - Thụy Sĩ) - 626ms
+zl47157.ydns.eu:17500:pgws1:0xoht # Châu Âu (EU) - 632ms
+zl47200.ydns.eu:17543:y4daz:32peg # Châu Âu (EU - Áo) - 695ms
+zl47154.ydns.eu:17497:vpjnb:ym57z # Châu Âu (EU) - 709ms
+zl47166.ydns.eu:17509:or1fp:g0uyk # Châu Âu (EU - Tây Ban Nha) - 717ms
+zl47162.ydns.eu:17505:12cfv:ey01l # Châu Âu (EU) - 721ms
+zl47166.ydns.eu:17509:or1fp:g0uyk # Châu Âu (EU) - 757ms
+zl47168.ydns.eu:17511:2k9l8:id7pz # Châu Âu (EU - Ý) - 785ms
+zl47163.ydns.eu:17506:4t8r1:r6ogw # Châu Âu (EU - Ba Lan) - 798ms
+zl47157.ydns.eu:17500:pgws1:0xoht # Châu Âu (EU - Anh Quốc) - 804ms
+zl47155.ydns.eu:17498:uhzbt:peacj # Châu Âu (EU) - 806ms
+zl47151.ydns.eu:17494:7wiv0:g8301 # Châu Âu (EU) - 819ms
+zl47208.ydns.eu:17551:peuhy:fjet1 # Châu Âu (EU) - 826ms
+zl47156.ydns.eu:17499:hg6d2:xdglo # Châu Âu (EU) - 828ms
+zl47203.ydns.eu:17546:ylh1k:y5zc6 # Châu Âu (EU) - 870ms
+zl47201.ydns.eu:17544:4zcni:p39se # Châu Âu (EU) - 904ms
+zl47159.ydns.eu:17502:cx9gv:f85u3 # Châu Âu (EU) - 953ms
+zl47157.ydns.eu:17500:pgws1:0xoht # Châu Âu (EU) - 959ms
+zl47206.ydns.eu:17549:5fck9:gc2pm # Châu Âu (EU) - 962ms
+zl47151.ydns.eu:17494:7wiv0:g8301 # Châu Âu (EU) - 966ms
+zl47202.ydns.eu:17545:9hfej:jn6sh # Châu Âu (EU) - 968ms
+zl47199.ydns.eu:17542:mtuk8:o829i # Châu Âu (EU) - 970ms
+zl47208.ydns.eu:17551:peuhy:fjet1 # Châu Âu (EU) - 971ms
+zl47198.ydns.eu:17541:znitd:zoy6q # Châu Âu (EU) - 987ms
+zl47203.ydns.eu:17546:ylh1k:y5zc6 # Châu Âu (EU) - 997ms
+zl47201.ydns.eu:17544:4zcni:p39se # Châu Âu (EU) - 1003ms
+zl47168.ydns.eu:17511:2k9l8:id7pz # Châu Âu (EU) - 1004ms
+zl47202.ydns.eu:17545:9hfej:jn6sh # Châu Âu (EU) - 1046ms
+zl47207.ydns.eu:17550:zjsbk:cofzs # Châu Âu (EU - Thụy Điển) - 1064ms
+zl47207.ydns.eu:17550:zjsbk:cofzs # Châu Âu (EU) - 1125ms
+zl47207.ydns.eu:17550:zjsbk:cofzs # Châu Âu (EU) - 1272ms
+zl96200.proxyfb.com:25659:ynz2:brf4 # Châu Âu (EU) - 1281ms

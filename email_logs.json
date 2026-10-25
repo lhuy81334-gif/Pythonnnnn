@@ -1,0 +1,1082 @@
+[
+  {
+    "timestamp": 1790655853.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Test Multi-Account Proxy",
+    "body": "Kiem tra tinh nang gui mail xoay tua proxy va account",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.54,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0641,
+      "exclamation_count": 0,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790657503.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Test Working Proxy",
+    "body": "Kiem tra gui mail qua proxy da scan",
+    "attachments": [],
+    "is_spam": false,
+    "spam_score": 0.4933,
+    "verdict": "LEGIT (HAM)",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0741,
+      "exclamation_count": 0,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790658066.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "116.98.238.72",
+    "subject": "Test Pure Proxy ESMTP",
+    "body": "Kiem tra gui hoan toan qua proxy",
+    "attachments": [],
+    "is_spam": false,
+    "spam_score": 0.4933,
+    "verdict": "LEGIT (HAM)",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.1667,
+      "exclamation_count": 0,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790659486.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Họp nhóm đồ án Python chiều nay",
+    "body": "Chào bạn, chiều nay 14h nhóm mình họp online qua Google Meet để chốt slide báo cáo đồ án nhé.",
+    "attachments": [
+      "Slide_Bao_Cao_Python.pdf"
+    ],
+    "is_spam": false,
+    "spam_score": 0.1333,
+    "verdict": "LEGIT (HAM)",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.04,
+      "exclamation_count": 0,
+      "dollar_count": 0,
+      "has_attachment": 1,
+      "attachment_count": 1,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790657443.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790657804.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659486.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Họp nhóm đồ án Python chiều nay",
+    "body": "Chào bạn, chiều nay 14h nhóm mình họp online qua Google Meet để chốt slide báo cáo đồ án nhé.",
+    "attachments": [
+      "Slide_Bao_Cao_Python.pdf"
+    ],
+    "is_spam": false,
+    "spam_score": 0.1333,
+    "verdict": "LEGIT (HAM)",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.04,
+      "exclamation_count": 0,
+      "dollar_count": 0,
+      "has_attachment": 1,
+      "attachment_count": 1,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790657850.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.66,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 4 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0141,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790658201.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "14.242.89.94",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.66,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 5 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0141,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790659477.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 6 email trong 60s gần nhất.",
+      "Phát hiện 2 tài khoản khác nhau gửi nội dung tương tự nhau."
+    ],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659481.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện! Nhấp tại đây: http://nhacai88.vip",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.7267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 7 email trong 60s gần nhất.",
+      "Phát hiện 2 tài khoản khác nhau gửi nội dung tương tự nhau."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.017,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "http://nhacai88.vip"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659490.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 1",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 1!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 8 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659494.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 2",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 2!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 9 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659497.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 3",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 3!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 10 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790657443.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659501.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 4",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 4!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 11 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790657804.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790657850.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.66,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 4 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0141,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790658201.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "14.242.89.94",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.66,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 5 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 0,
+      "uppercase_ratio": 0.0141,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": []
+    }
+  },
+  {
+    "timestamp": 1790659477.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 6 email trong 60s gần nhất.",
+      "Phát hiện 2 tài khoản khác nhau gửi nội dung tương tự nhau."
+    ],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659481.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Tặng 100k trải nghiệm nhà cái uy tín hôm nay",
+    "body": "Đăng ký tài khoản ngay hôm nay để nhận 100k vào tài khoản nạp rút siêu nhanh không cần điều kiện! Nhấp tại đây: http://nhacai88.vip",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.7267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 7 email trong 60s gần nhất.",
+      "Phát hiện 2 tài khoản khác nhau gửi nội dung tương tự nhau."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 0,
+      "crypto_count": 0,
+      "has_huge_money": 0,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.017,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "http://nhacai88.vip"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659490.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 1",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 1!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 8 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659494.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 2",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 2!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 9 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659497.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 3",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 3!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 10 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790659501.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "123.24.47.164",
+    "subject": "Ưu đãi đặc biệt nhận 500 USDT đợt 4",
+    "body": "Click ngay vào link https://claim-crypto.xyz để nhận 500 USDT miễn phí lần 4!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 11 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0885,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://claim-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790666173.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "116.105.109.47",
+    "subject": "My precious legacy for you",
+    "body": "Doctors told me cancer is incurable. I have decided to travel alone and bid farewell to this world in silence. I have no children. My only regret is not being able to spend this life with you. You were my first love and will live forever in my heart. I leave behind a precious legacy. I hope this friendship will bring us together again in the next life. Please keep this information safe. rcslj.com Username: MB2536 Password: dt1288 Balance: 2,684,742.17 USDT ($)",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.86,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 1,
+      "has_crypto": 1,
+      "crypto_count": 3,
+      "has_huge_money": 1,
+      "bait_score": 5,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0367,
+      "exclamation_count": 0,
+      "dollar_count": 1,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "rcslj.com"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668070.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "116.98.238.72",
+    "subject": "Ưu đãi nhận 500 USDT đợt 1",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 1!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668083.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "14.185.5.36",
+    "subject": "Ưu đãi nhận 500 USDT đợt 2",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 2!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668093.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "14.242.89.94",
+    "subject": "Ưu đãi nhận 500 USDT đợt 3",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 3!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668119.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "117.4.246.193",
+    "subject": "Ưu đãi nhận 500 USDT đợt 4",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 4!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": true,
+    "flood_reasons": [
+      "Nhận 4 email trong 60s gần nhất."
+    ],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668162.0,
+    "sender": "huy162131@gmail.com",
+    "sender_ip": "116.103.132.46",
+    "subject": "Ưu đãi nhận 500 USDT đợt 5",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 5!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  },
+  {
+    "timestamp": 1790668170.0,
+    "sender": "huyk60049@gmail.com",
+    "sender_ip": "116.98.229.82",
+    "subject": "Ưu đãi nhận 500 USDT đợt 6",
+    "body": "Click ngay vào link https://bonus-crypto.xyz để nhận 500 USDT miễn phí lần 6!",
+    "attachments": [],
+    "is_spam": true,
+    "spam_score": 0.9267,
+    "verdict": "SPAM / PHISHING",
+    "is_flood_attack": false,
+    "flood_reasons": [],
+    "indicators": {
+      "has_credentials": 0,
+      "has_crypto": 1,
+      "crypto_count": 2,
+      "has_huge_money": 1,
+      "bait_score": 0,
+      "urgency_score": 0,
+      "url_count": 1,
+      "uppercase_ratio": 0.0962,
+      "exclamation_count": 1,
+      "dollar_count": 0,
+      "has_attachment": 0,
+      "attachment_count": 0,
+      "has_dangerous_file": 0,
+      "has_double_extension": 0,
+      "dangerous_files": [],
+      "extracted_urls": [
+        "https://bonus-crypto.xyz"
+      ]
+    }
+  }
+]

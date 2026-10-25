@@ -1,0 +1,113 @@
+# Danh sách Proxy sử dụng để giả lập tấn công đa quốc gia (IP Spoofing / Relay)
+# Định dạng: host:port:username:password # Quốc gia
+fb4522.proxyfb.com:53954:t7fds:49ziu
+fb7836.proxyfb.com:53943:smpd1:ph3nl
+fb8240.proxyfb.com:53930:t7g2s:s30yp
+fb1140.proxyfb.com:53935:mqw9z:v91jm
+fb8242.proxyfb.com:53958:ai6q4:dh6cq
+fb3832.proxyfb.com:53956:9s24z:kl6cq
+fb3110.proxyfb.com:53934:wcle4:gz4n2
+fb1142.proxyfb.com:53963:ruk3v:zl92v
+fb4523.proxyfb.com:53968:4bsq8:x3vom
+fb4521.proxyfb.com:53940:20fyj:7cvnd
+zl96200.proxyfb.com:25659:ynz2:brf4
+fb1055.proxyfb.com:53933:ql6sf:hpdst
+fb7837.proxyfb.com:53957:sh8vp:1g6h4
+fb4946.proxyfb.com:53945:bdfg0:wsdg3
+fb8241.proxyfb.com:53944:ntb9y:d5i9c
+fb1057.proxyfb.com:53961:q3mfb:wvxoz
+fb6711.proxyfb.com:53938:z6v1j:wq8za
+fb0040.proxyfb.com:53937:6hp2m:ariey
+fb1651.proxyfb.com:53946:yierd:invap
+fb6713.proxyfb.com:53966:24clp:gc76y
+fb1141.proxyfb.com:53949:fjmig:i56oq
+fb3111.proxyfb.com:53948:hrkv6:5lnfm
+fb2617.proxyfb.com:53967:w70q3:6mjxq
+fb4945.proxyfb.com:53931:hov09:91wbt
+fb1652.proxyfb.com:53960:4wkex:ykvaj
+fb3112.proxyfb.com:53962:602rz:7ke9p
+fb5326.proxyfb.com:53951:d13wx:1owh9
+fb2427.proxyfb.com:53955:km8j6:ay9q3
+fb6712.proxyfb.com:53952:x7c3z:fcmnu
+fb1650.proxyfb.com:53932:mvs9h:skj20
+fb5327.proxyfb.com:53965:wl1a0:4efin
+fb2426.proxyfb.com:53941:6uf08:n0yzv
+fb5325.proxyfb.com:53936:arwso:hfqpw
+fb0042.proxyfb.com:53964:p2idu:n5ciw
+fb2615.proxyfb.com:53939:w6ey7:7lhwc
+fb4947.proxyfb.com:53959:fgrma:rqmuh
+fb0041.proxyfb.com:53950:o7gsu:befwr
+fb1056.proxyfb.com:53947:g1f2k:wdr9h
+fb4520.proxyfb.com:53926:89cf3:cjr0i
+fb2616.proxyfb.com:53953:9ctos:z82bm
+fb3830.proxyfb.com:53928:l5vb9:jlske
+fb2614.proxyfb.com:53925:inrhx:z1yp4
+fb2425.proxyfb.com:53927:8ub2t:7w8du
+fb3831.proxyfb.com:53942:juohc:a63up
+fb2428.proxyfb.com:53969:rc0ex:a0kc7
+fb7835.proxyfb.com:53929:v6zx4:irp6g
+fb8249.proxyfb.com:53920:nzmju:k0wy5
+zl47160.ydns.eu:17503:8cu6g:zhl82
+zl47153.ydns.eu:17496:qaokl:x476p
+fb4954.proxyfb.com:53921:fztb4:r4gle
+zl47200.ydns.eu:17543:y4daz:32peg
+fb1064.proxyfb.com:53923:xjid2:29w3q
+zl47158.ydns.eu:17501:lzy70:uzecd
+zl47155.ydns.eu:17498:uhzbt:peacj
+zl47167.ydns.eu:17510:wxfvk:obltw
+zl47161.ydns.eu:17504:k4a13:wb8dz
+zl47154.ydns.eu:17497:vpjnb:ym57z
+zl47156.ydns.eu:17499:hg6d2:xdglo
+zl47208.ydns.eu:17551:peuhy:fjet1
+fb1659.proxyfb.com:53922:lczog:tjp9v
+zl47164.ydns.eu:17507:i2fzc:mjyqo
+zl47159.ydns.eu:17502:cx9gv:f85u3
+zl47170.ydns.eu:17513:g03e1:i6wu2
+zl47199.ydns.eu:17542:mtuk8:o829i
+zl47163.ydns.eu:17506:4t8r1:r6ogw
+zl47202.ydns.eu:17545:9hfej:jn6sh
+zl47162.ydns.eu:17505:12cfv:ey01l
+zl47207.ydns.eu:17550:zjsbk:cofzs
+zl47151.ydns.eu:17494:7wiv0:g8301
+zl47206.ydns.eu:17549:5fck9:gc2pm
+zl47203.ydns.eu:17546:ylh1k:y5zc6
+zl47166.ydns.eu:17509:or1fp:g0uyk
+fb6710.proxyfb.com:53924:ahuck:6ae5v
+zl47165.ydns.eu:17508:xpr0q:seib8
+zl47157.ydns.eu:17500:pgws1:0xoht
+zl47201.ydns.eu:17544:4zcni:p39se
+zl47168.ydns.eu:17511:2k9l8:id7pz
+zl47198.ydns.eu:17541:znitd:zoy6q
+zl47153.ydns.eu:17496:qaokl:x476p
+fb0041.proxyfb.com:53950:o7gsu:befwr
+fb5327.proxyfb.com:53965:wl1a0:4efin
+fb1057.proxyfb.com:53961:q3mfb:wvxoz
+fb6712.proxyfb.com:53952:x7c3z:fcmnu
+fb3832.proxyfb.com:53956:9s24z:kl6cq
+fb4954.proxyfb.com:53921:fztb4:r4gle
+fb1659.proxyfb.com:53922:lczog:tjp9v
+zl47154.ydns.eu:17497:vpjnb:ym57z
+zl47202.ydns.eu:17545:9hfej:jn6sh
+zl47155.ydns.eu:17498:uhzbt:peacj
+zl47156.ydns.eu:17499:hg6d2:xdglo
+zl47207.ydns.eu:17550:zjsbk:cofzs
+zl47157.ydns.eu:17500:pgws1:0xoht
+zl47201.ydns.eu:17544:4zcni:p39se
+zl47208.ydns.eu:17551:peuhy:fjet1
+zl47203.ydns.eu:17546:ylh1k:y5zc6
+zl47151.ydns.eu:17494:7wiv0:g8301
+zl47158.ydns.eu:17501:lzy70:uzecd # Châu Âu (EU - Đức / Hà Lan)
+zl47156.ydns.eu:17499:hg6d2:xdglo # Châu Âu (EU - Pháp)
+zl47157.ydns.eu:17500:pgws1:0xoht # Châu Âu (EU - Anh Quốc)
+zl47154.ydns.eu:17497:vpjnb:ym57z # Châu Âu (EU - Đức)
+zl47163.ydns.eu:17506:4t8r1:r6ogw # Châu Âu (EU - Ba Lan)
+zl47164.ydns.eu:17507:i2fzc:mjyqo # Châu Âu (EU - Séc)
+zl47207.ydns.eu:17550:zjsbk:cofzs # Châu Âu (EU - Thụy Điển)
+zl47168.ydns.eu:17511:2k9l8:id7pz # Châu Âu (EU - Ý)
+zl47166.ydns.eu:17509:or1fp:g0uyk # Châu Âu (EU - Tây Ban Nha)
+zl47199.ydns.eu:17542:mtuk8:o829i # Châu Âu (EU - Thụy Sĩ)
+zl47200.ydns.eu:17543:y4daz:32peg # Châu Âu (EU - Áo)
+zl47162.ydns.eu:17505:12cfv:ey01l # Châu Âu (EU - Bỉ)
+zl47167.ydns.eu:17510:wxfvk:obltw # Châu Âu (EU - Phần Lan)
+zl47170.ydns.eu:17513:g03e1:i6wu2 # Châu Âu (EU - Đan Mạch)
+zl47151.ydns.eu:17494:7wiv0:g8301 # Châu Âu (EU - Na Uy)

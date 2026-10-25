@@ -1,0 +1,7 @@
+# HƯỚNG DẪN CHẠY HỆ THỐNG (HOW TO RUN)
+
+1. python mail_listener.py : Chạy service ngầm để tự động kéo email từ Gmail về, trích xuất IP và dùng AI Random Forest phân tích spam/mã độc/flood attack.
+2. python -m streamlit run dashboard.py : Mở giao diện Web Dashboard trực quan để theo dõi luồng email real-time, xem IP nguồn, biểu đồ và tải file báo cáo Excel (.xlsx).
+3. python send_test_email.py : Công cụ bắn email thử nghiệm qua Proxy và xoay tua các tài khoản clone (hỗ trợ 5 kịch bản: Crypto Scam, Quảng cáo, Thư sạch, Flood Sybil Attack, Mã độc đính kèm).
+4. python test_proxies.py : (Tùy chọn) Quét và kiểm tra danh sách proxy sống trong proxy.txt hỗ trợ gửi mail.
+5. python simulate_test.py : (Tùy chọn) Chạy mô phỏng offline kiểm thử thuật toán và tự xuất báo cáo Excel mà không cần mạng.
